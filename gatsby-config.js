@@ -4,9 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Xiyuan Wang',
     description:
-      'Testing',
+      'testing.',
     siteUrl: 'https://Horanny.github.io', // No trailing slash allowed!
     image: 'src/images/fried-egg.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: '',
     pathPrefix: '',  // 如果是GitHub Pages的子目录，记得设置正确的前缀
   },
   plugins: [
