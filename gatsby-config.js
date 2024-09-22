@@ -4,10 +4,9 @@ module.exports = {
   siteMetadata: {
     title: 'Xiyuan Wang',
     description:
-      'Chandrika Deb is an IIM alumnus who spearheads marketing initiatives at Tata Steel and is also a freelance tech blogger.',
+      'Testing',
     siteUrl: 'https://Horanny.github.io', // No trailing slash allowed!
     image: 'src/images/fried-egg.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@chandrikadeb7',
     pathPrefix: '',  // 如果是GitHub Pages的子目录，记得设置正确的前缀
   },
   plugins: [

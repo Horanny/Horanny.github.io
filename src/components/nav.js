@@ -18,7 +18,7 @@ const StyledHeader = styled.header`
   width: 100%;
   height: var(--nav-height);
   // background-color: rgba(10, 25, 47, 0.85);
-  background-color: #FFFBE9;
+  background-color: #FFFCEE;
   filter: none !important;
   pointer-events: auto !important;
   user-select: auto !important;
