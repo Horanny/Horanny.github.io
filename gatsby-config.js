@@ -5,9 +5,10 @@ module.exports = {
     title: 'Xiyuan Wang',
     description:
       'Chandrika Deb is an IIM alumnus who spearheads marketing initiatives at Tata Steel and is also a freelance tech blogger.',
-    siteUrl: 'https://chandrikadeb7.github.io', // No trailing slash allowed!
+    siteUrl: 'https://Horanny.github.io', // No trailing slash allowed!
     image: 'src/images/fried-egg.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@chandrikadeb7',
+    pathPrefix: '',  // 如果是GitHub Pages的子目录，记得设置正确的前缀
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
