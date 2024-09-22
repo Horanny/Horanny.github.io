@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://horanny.github.io/sitemap-index.xml
-Host: https://horanny.github.io
