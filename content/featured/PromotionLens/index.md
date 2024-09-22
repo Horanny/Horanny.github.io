@@ -2,14 +2,16 @@
 date: '1'
 title: 'PromotionLens'
 cover: './promotionlens.jpeg'
-github: 'https://github.com/chandrikadeb7/La-Derma'
-external: 'https://docs.google.com/presentation/d/1q-de17co3sbWG5tAgwR_O8jbMF_tyaIn_Sgyzeg9uuI/edit?usp=sharing'
+# github: 'https://github.com/chandrikadeb7/La-Derma'
+external: 'https://arxiv.org/pdf/2208.01404'
 tech:
-  - Python
-  - JavaScript
-  - React
-  - OpenCV
-  - TensorFlow
+  - E-commerce
+  - time-series prediction
+  - visualization
 ---
 
-An application that recommends personalised skincare and makeup products based on the skin metrics inferred from user’s selfie, using Computer Vision algorithms submitted for Yash Technologies Case Competition **TechnoThrive**.
+***Inspecting Promotion Strategies of Online E-commerce via Visual Analytics***
+
+Chenyang Zhang, **Xiyuan Wang**, Chuyi Zhao, Yijing Ren, Tianyu Zhang, Zhenhui Peng, Xiaomeng Fan, Quan Li
+
+IEEE VIS 2022

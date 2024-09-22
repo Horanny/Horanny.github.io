@@ -176,8 +176,8 @@ const StyledProject = styled.li`
     }
 
     strong {
-      color: var(--white);
-      font-weight: normal;
+      color: var(--light-slate);
+      font-weight: bold;
     }
   }
 

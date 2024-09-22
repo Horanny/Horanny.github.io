@@ -54,8 +54,8 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #FDDE55;
-    --navy: #FFFBE9;
+    --dark-navy: #FFE571;
+    --navy: #FFFCEE;
     --light-navy: #FFF7D6;
     --lightest-navy: #FEEFAD;
     --navy-shadow: rgba(2, 12, 27, 0.7);

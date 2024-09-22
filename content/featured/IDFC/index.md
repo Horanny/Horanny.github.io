@@ -1,16 +1,15 @@
 ---
 date: '2'
-title: 'iIFA: Integrated IDFC First Assistant'
-cover: './idfc.png'
-external: 'https://docs.google.com/presentation/d/1VBxFohznvvVg8Kxf5CPwx2UAgbv2ReTx6vzcp8A7u70/edit?usp=sharing'
+title: 'FMLens'
+cover: './FMLens.png'
+external: 'https://ieeexplore.ieee.org/document/10509776'
 tech:
-  - Review Scraping
-  - User Persona
-  - Figma
-  - GTM
-  - RICE
+- Fund Manager Selection
+- Visual Analytics
 ---
 
-Banking Application Enhancement for increased engagement time/customer for **IDFC FAME Product Track** Bschool Case Competition
+***Towards Better Scaffolding the Process of Fund Manager Selection in Fund Investments***
 
-Proposed enhanced chatbot, unique spending options beneficial for users, and geolocation based cashbacks and coupons reward store prompts
+Longfei Chen, Chen Cheng, He Wang, **Xiyuan Wang**, Yun Tian, Xuanwu Yue, Wong Kam-Kwai, Suting Hong, Quan Li
+
+TVCG 2024
