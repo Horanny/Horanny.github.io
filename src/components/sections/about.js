@@ -55,7 +55,7 @@ const StyledPic = styled.div`
     width: 70%;
   }
 
-  .wrapper {
+.wrapper {
     ${({ theme }) => theme.mixins.boxShadow};
     display: block;
     position: relative;
@@ -81,8 +81,7 @@ const StyledPic = styled.div`
     .img {
       position: relative;
       border-radius: var(--border-radius);
-      mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1);
+      /* 移除了 grayscale(100%) */
       transition: var(--transition);
     }
 
@@ -111,6 +110,7 @@ const StyledPic = styled.div`
       z-index: -1;
     }
   }
+
 `;
 
 const About = () => {
@@ -173,9 +173,9 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/eggy_avatar.png"
               width={500}
-              quality={95}
+              quality={100}
               formats={['AUTO', 'WEBP', 'AVIF']}
               alt="Headshot"
             />

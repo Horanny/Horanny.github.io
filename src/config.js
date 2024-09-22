@@ -43,9 +43,15 @@ module.exports = {
     },
   ],
 
+  // colors: {
+  //   green: '#64ffda',
+  //   navy: '#0a192f',
+  //   darkNavy: '#020c1b',
+  // },
+
   colors: {
     green: '#64ffda',
-    navy: '#0a192f',
+    navy: '#FEEFAD',
     darkNavy: '#020c1b',
   },
 

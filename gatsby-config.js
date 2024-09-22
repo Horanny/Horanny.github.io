@@ -2,11 +2,11 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Chandrika Deb',
+    title: 'Xiyuan Wang',
     description:
       'Chandrika Deb is an IIM alumnus who spearheads marketing initiatives at Tata Steel and is also a freelance tech blogger.',
     siteUrl: 'https://chandrikadeb7.github.io', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: 'src/images/fried-egg.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@chandrikadeb7',
   },
   plugins: [
@@ -26,7 +26,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/fried-egg.png',
       },
     },
     `gatsby-plugin-offline`,
