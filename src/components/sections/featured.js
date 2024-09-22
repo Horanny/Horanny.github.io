@@ -256,7 +256,7 @@ const StyledProject = styled.li`
     a {
       width: 100%;
       height: 100%;
-      background-color: var(--green);
+      // background-color: var(--green);
       border-radius: var(--border-radius);
       vertical-align: middle;
 
@@ -267,7 +267,7 @@ const StyledProject = styled.li`
 
         &:before,
         .img {
-          background: transparent;
+          // background: transparent;
           filter: none;
         }
       }
@@ -283,7 +283,7 @@ const StyledProject = styled.li`
         bottom: 0;
         z-index: 3;
         transition: var(--transition);
-        background-color: var(--navy);
+        // background-color: var(--navy);
         mix-blend-mode: screen;
       }
     }
@@ -291,13 +291,13 @@ const StyledProject = styled.li`
     .img {
       border-radius: var(--border-radius);
       mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1) brightness(90%);
+      // filter: grayscale(100%) contrast(1) brightness(100%);
 
       @media (max-width: 768px) {
         object-fit: cover;
         width: auto;
         height: 100%;
-        filter: grayscale(100%) contrast(1) brightness(50%);
+        filter: contrast(1) brightness(100%);
       }
     }
   }

@@ -1,4 +1,5 @@
 import React from 'react';
+import friedEgg from '../../images/fried-egg.png'; 
 
 const IconLoader = () => (
   <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
@@ -10,7 +11,7 @@ const IconLoader = () => (
           fill="currentColor"
         /> */}
       </g>
-      <path
+      {/* <path
         stroke="currentColor"
         strokeWidth="5"
         strokeLinecap="round"
@@ -21,11 +22,19 @@ const IconLoader = () => (
                   L 50, 95
                   L 89, 73
                   L 89, 28 z"
+      /> */}
+      <image
+        xlinkHref={friedEgg}  // 使用xlinkHref来正确加载图片
+        x="10"
+        y="10"
+        width="78"  // 根据需要调整尺寸
+        height="78"
+        preserveAspectRatio="xMidYMid slice"
       />
     </g>
-    <text x="30" y="70" fill="currentColor" fontSize="55px" fontFamily="Consolas, serif">
+    {/* <text x="30" y="70" fill="currentColor" fontSize="55px" fontFamily="Consolas, serif">
       E
-    </text>
+    </text> */}
   </svg>
 );
 

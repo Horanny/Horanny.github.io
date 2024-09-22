@@ -1,7 +1,7 @@
 ---
 date: '1'
-title: 'La Dérma: Beauty with AI'
-cover: './yash.png'
+title: 'PromotionLens'
+cover: './promotionlens.jpeg'
 github: 'https://github.com/chandrikadeb7/La-Derma'
 external: 'https://docs.google.com/presentation/d/1q-de17co3sbWG5tAgwR_O8jbMF_tyaIn_Sgyzeg9uuI/edit?usp=sharing'
 tech:
