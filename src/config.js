@@ -1,27 +1,27 @@
 module.exports = {
-  email: 'chandrikadeb7@gmail.com',
+  email: 'wangxy7@shanghaitech.edu.cn',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/Horanny',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      name: 'Google Scholar',
+      url: 'https://scholar.google.com/citations?hl=en&user=AY4fZtIAAAAJ&view_op=list_works&gmla=ALUCkoXvOP54AXZgXZJnAYonTH1oNBz9Ux7WSwKidJr_9PBLKsP_oE_U0mr5yO9zUk5f6xfhA_yaLKLrqP46iThEhPL4sKN1a-XH2QoFSARk3Hlv86NjgwIBRyk6CnGc6S5eQey4yq6L',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/chandrikadeb7',
+    // },
+    // {
+    //   name: 'Linkedin',
+    //   url: 'https://www.linkedin.com/in/chandrika-deb',
+    // },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/chandrikadeb7',
+    // },
   ],
 
   navLinks: [
@@ -30,12 +30,12 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Experience',
-      url: '/#jobs',
+      name: 'Background',
+      url: '/#background',
     },
     {
-      name: 'Work',
-      url: '/#projects',
+      name: 'Publications',
+      url: '/#publications',
     },
     {
       name: 'Contact',

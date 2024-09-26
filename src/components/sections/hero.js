@@ -69,16 +69,17 @@ const Hero = () => {
       </p>
 
       <p>
-        I am Chandrika Deb, an alumnus of {' '} <a href="http://www.iimrohtak.ac.in">
-        IIM Rohtak</a> {' '} and {' '} <a href="https://www.bitmesra.ac.in">BIT Mesra</a> {' '} currently spearheading impactful marketing initiatives at {' '}
-        <a href="https://www.tatasteel.com">Tata Steel</a>.
+        Hi there! I am currently a Master Student majoring in Computer Science at {' '} <a href='https://www.shanghaitech.edu.cn/'>
+        Shanghaitech University </a> {' '} supervised by {' '} <a href='https://thinkavatar.github.io/'>Prof. Quan Li</a> {' '} , and I also obtained a B.S degree from the same university.
       </p>
 
 
       <p>
-        When not decoding the customer journey, you can find me sketching on {' '}
-        <a href="https://pin.it/4W1Rxtj">Pinterest</a> {' '} or writing technical blogs for {' '}
-        <a href="https://www.lambdatest.com">LambdaTest</a> {' '} and other freelance clients.
+      My research interests lies in human-computer interaction (HCI) and large data visualization (VIS). Besides, I'm currently exploring research in game storytelling.
+      </p>
+
+      <p>
+      <i><b>I am actively seeking for Phd position of 25 Fall!</b></i>
       </p>
     </>
   );
@@ -88,7 +89,7 @@ const Hero = () => {
       href="https://chandrikadeb7.gumroad.com"
       target="_blank"
       rel="noreferrer">
-      Check out my products!
+      Check out my resume!
     </a>
   );
 

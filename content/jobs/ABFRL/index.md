@@ -1,11 +1,12 @@
 ---
-date: '2023-07-05'
-title: 'Employer Branding Intern'
-company: 'ABFRL'
+date: ''
+title: 'Computer Science and Technology'
+company: 'Shanghaitech University'
 location: 'Remote'
-range: 'July - September 2023'
-url: 'https://abfrl.com/'
+range: '2018 - 2022'
+url: 'https://www.shanghaitech.edu.cn/'
 ---
+
 
 - Amplified the STRIDES program value, aiding potential recruits in understanding career growth opportunities
 - Developed strategic Campus Engagement deliverables for leadership talks as part of the Young Talent Management (YTM) team

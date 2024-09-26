@@ -17,6 +17,14 @@ const StyledAboutSection = styled.section`
       display: block;
     }
   }
+  h1 {
+    margin: 0 0 7px 0px;
+    color: var(--green);
+    font-family: var(--font-mono);
+    font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
+    font-weight: 400;
+
+  }
 `;
 const StyledText = styled.div`
   ul.skills-list {
@@ -125,8 +133,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Market Research', 'Data Analysis', 'Brand Management', 'Digital Marketing', 
-  'SPSS', 'Tableau', 'MS Office', 'Python'];
+  const skills = ['Data Analysis', 'Unity 3D', 'Cinema 4D', 'Figma', 'D3.js', 'Python' ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,29 +143,19 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            With a core specialization in Marketing &amp; Strategy, I've orchestrated impactful
-             strategies in brand perceptions during my MBA summer internship for {' '}
-             <a href="https://www.tatastructura.com">Tata Structura</a> {' '} at{' '} 
-             <a href="https://drive.google.com/file/d/1xhGTFz7pe6kP7bZ4peDgJ7hlG630K8rz/view?usp=sharing">Tata Steel</a>.
+            I am a video game enthusiast, and I've always been dedicated to researching how design and technology can enhance players' gaming experience and enjoyment.
             </p>
 
             <p>
-            I also spearheaded employer branding initiatives for {' '}
-            <a href="https://drive.google.com/file/d/1w-uN9jb86pxFXPYMDu_78P-d1CZJAx3V/view?usp=sharing">
-              Aditya Birla Fashion and Retail</a>, {' '} resulting in a remarkable 37% surge in consumer engagement 
-              during my remote live project as part of my MBA journey.
+            My journey into the game domain started with a Bilibili game content creator, <a href="https://space.bilibili.com/374377?spm_id_from=333.337.0.0">
+            <h1>泪腺战士</h1></a>
+            . Her deep empathy for game stories and profound gaming expertise immersed her audience into the game worlds she explored.
             </p>
 
             <p>
-            During my tenure at {' '} <a href="https://www.amdocs.com">Amdocs</a>, {' '} 
-            where I served as a Software Developer, I had the honor of being selected as one of 16 elite {' '} 
-            <a href="https://drive.google.com/file/d/16BGu5InZZDGCtoWas560ezwKsgVBKbI9/view?usp=sharing">Innovation Agents</a>.
-            </p>
-
-            <p>
-            Moreover, my role as a {' '} <a href="https://drive.google.com/file/d/1iRTZfE7v5Y99BYZVxevaGBVtF90t-TOb/view?usp=sharing">
-              Placement Coordinator</a> {' '} at IIM Rohtak saw me cultivate over 30 new corporate relationships, culminating in a 
-              remarkable 42% boost in campus placements.
+            Over the past few years, I’ve worked on several projects related to game data visualization and player experience enhancement, including 
+            <b> retain players</b>, <b>recommend more diverse friends</b>, and <b>assist game narrative interpretations</b>.
+            I’m excited to continue exploring the intersection of storytelling and player engagement in my future research.
             </p>
 
             <p>My skills are not limited to this list!</p>

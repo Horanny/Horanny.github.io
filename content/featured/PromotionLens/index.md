@@ -1,13 +1,13 @@
 ---
-date: '1'
+date: '3'
 title: 'PromotionLens'
 cover: './promotionlens.jpeg'
 # github: 'https://github.com/chandrikadeb7/La-Derma'
 external: 'https://arxiv.org/pdf/2208.01404'
 tech:
   - E-commerce
-  - time-series prediction
-  - visualization
+  - Time-series Prediction
+  - Visualization
 ---
 
 ***Inspecting Promotion Strategies of Online E-commerce via Visual Analytics***

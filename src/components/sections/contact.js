@@ -64,7 +64,7 @@ const Contact = () => {
         Let's get in touch if you have any relevant roles for me!
       </p>
 
-      <a className="email-link" href={`mailto:${email}`}>
+      <a className="email-link" href="mailto:wangxy7@shanghaitech.edu.cn">
         Mail Me!
       </a>
     </StyledContactSection>
