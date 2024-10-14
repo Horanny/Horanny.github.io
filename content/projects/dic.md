@@ -11,4 +11,4 @@ company: 'Project'
 showInProjects: true
 ---
 
-Implemented an highly interactive visual analytics system of South China Sea by volume rendering in Unity 3D.
+Implemented a highly interactive visual analytics system of South China Sea by volume rendering in Unity 3D.
