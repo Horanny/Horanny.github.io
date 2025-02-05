@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '7'
 title: 'PromotionLens'
 cover: './promotionlens.jpeg'
 # github: 'https://github.com/chandrikadeb7/La-Derma'

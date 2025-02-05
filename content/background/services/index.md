@@ -6,7 +6,7 @@ range: 'September 2018 - Present'
 url: 'https://www.shanghaitech.edu.cn/'
 timeline:
   - title: "Paper Review"
-    company: "CHI lbw"
+    company: "CHI & CHI lbw"
     range: "2024"
   - title: "Paper Review"
     company: "Chinese CHI"

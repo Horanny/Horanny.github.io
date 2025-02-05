@@ -1,8 +1,8 @@
 ---
-date: '1'
+date: '5'
 title: "Don'tGo"
 cover: './dontgo.png'
-external: ''
+external: 'https://ieeexplore.ieee.org/document/10738201'
 cta: ''
 tech:
   - Churn Prediction
@@ -14,4 +14,4 @@ tech:
 
 **Xiyuan Wang**, Laixin Xie, He Wang, Xingxing Xing, Wei Wan, Ziming Wu, Xiaojuan Ma, Quan Li
 
-TVCG Under Review
+TVCG 2024

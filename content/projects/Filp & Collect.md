@@ -1,5 +1,5 @@
 ---
-date: '2024-04-14'
+date: '2019-04-14'
 title: 'Flip & Collect'
 github: ''
 external: 'https://www.bilibili.com/video/BV1zE411X7uV/?share_source=copy_web&vd_source=3e0596d63812619ddd976406e0fecd30'

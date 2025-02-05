@@ -336,6 +336,8 @@ const Featured = () => {
   const revealProjects = useRef([]);
   const prefersReducedMotion = usePrefersReducedMotion();
 
+  // test
+
   useEffect(() => {
     if (prefersReducedMotion) {
       return;
