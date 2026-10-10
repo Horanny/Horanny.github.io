@@ -48,7 +48,7 @@ const StyledText = styled.div`
         width: 10px;
         height: 13px;
         border: 1px solid var(--rose-border);
-        // border-radius: 50% 50% 45% 45% / 60% 60% 40% 40%;
+        border-radius: 50% 50% 45% 45% / 60% 60% 40% 40%;
         background: var(--navy);
         position: absolute;
         left: 0;

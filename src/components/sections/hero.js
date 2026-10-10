@@ -88,7 +88,7 @@ const Hero = () => {
       <Egg />
     </div>
   );
-  const three = <h3 className="medium-heading">Data Visualization | Human Computer Interaction</h3>;
+  const three = <h3 className="medium-heading">Human Computer Interaction | Data Visualization  </h3>;
   const four = (
     <>
       <p>
