@@ -1,10 +1,10 @@
 ---
 date: ''
 title: 'Computer Science and Technology'
-company: 'Shanghaitech University'
+company: 'ShanghaiTech'
 location: 'Remote'
 range: '2018 - 2022'
-url: 'https://www.shanghaitech.edu.cn/'
+url: 'https://www.ShanghaiTech.edu.cn/'
 ---
 
 

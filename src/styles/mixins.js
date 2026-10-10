@@ -4,7 +4,7 @@ const button = css`
   color: var(--green);
   background-color: transparent;
   border: 1px solid var(--green);
-  border-radius: var(--border-radius);
+  border-radius: var(--rounded-radius);
   font-size: var(--fz-xs);
   font-family: var(--font-mono);
   line-height: 1;
@@ -15,8 +15,8 @@ const button = css`
   &:hover,
   &:focus-visible {
     outline: none;
-    box-shadow: 4px 4px 0 0 var(--green);
-    transform: translate(-5px, -5px);
+    background-color: var(--rose-tint);
+    border-color: var(--rose);
   }
   &:after {
     display: none !important;
@@ -90,7 +90,7 @@ const mixins = {
     color: var(--green);
     background-color: transparent;
     border: 1px solid var(--green);
-    border-radius: var(--border-radius);
+    border-radius: var(--rounded-radius);
     padding: 0.75rem 1rem;
     font-size: var(--fz-xs);
     font-family: var(--font-mono);
@@ -101,8 +101,8 @@ const mixins = {
     &:hover,
     &:focus-visible {
       outline: none;
-      box-shadow: 3px 3px 0 0 var(--green);
-      transform: translate(-4px, -4px);
+      background-color: var(--rose-tint);
+      border-color: var(--rose);
     }
     &:after {
       display: none !important;
@@ -113,7 +113,7 @@ const mixins = {
     color: var(--green);
     background-color: transparent;
     border: 1px solid var(--green);
-    border-radius: var(--border-radius);
+    border-radius: var(--rounded-radius);
     padding: 1.25rem 1.75rem;
     font-size: var(--fz-sm);
     font-family: var(--font-mono);
@@ -124,21 +124,21 @@ const mixins = {
     &:hover,
     &:focus-visible {
       outline: none;
-      box-shadow: 4px 4px 0 0 var(--green);
-      transform: translate(-5px, -5px);
+      background-color: var(--rose-tint);
+      border-color: var(--rose);
     }
     &:after {
       display: none !important;
     }
   `,
 
-  boxShadow: css`
-    box-shadow: 0 10px 30px -15px var(--navy-shadow);
-    transition: var(--transition);
+  surface: css`
+    border: 1px solid var(--surface-border);
+    transition: border-color 0.2s ease, background-color 0.2s ease;
 
     &:hover,
-    &:focus-visible {
-      box-shadow: 0 20px 30px -15px var(--navy-shadow);
+    &:focus-within {
+      border-color: var(--rose-border);
     }
   `,
 

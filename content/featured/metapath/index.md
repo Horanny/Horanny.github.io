@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '5'
 title: "MetapathVis"
 cover: './teaser.png'
 external: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15285'

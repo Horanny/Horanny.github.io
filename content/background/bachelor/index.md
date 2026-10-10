@@ -1,20 +1,25 @@
 ---
 date: '2018-01-01'
-title: "Education"
-company: 'Shanghaitech University'
+title: 'Education'
+company: 'ShanghaiTech'
 location: 'Remote'
 range: 'September 2018 - Present'
-url: 'https://www.shanghaitech.edu.cn/'
+url: 'https://www.ShanghaiTech.edu.cn/'
 timeline:
-  - title: "Bachelor's Degree"
-    company: "Shanghaitech University"
-    range: "September 2018 — June 2022"
-    text: "Bachelor's Degree in Computer Science"
+  - title: 'PhD'
+    company: 'NUS'
+    range: 'August 2026 — Present'
+    text: 'PhD in Computer Science'
+    url: 'https://www.nus.edu.sg/'
   - title: "Master's Degree"
-    company: "Shanghaitech University"
-    range: "September 2022 — Present"
+    company: 'ShanghaiTech'
+    range: 'September 2022 — June 2025'
     text: "Master's Degree in Computer Science"
+  - title: "Bachelor's Degree"
+    company: 'ShanghaiTech'
+    range: 'September 2018 — June 2022'
+    text: "Bachelor's Degree in Computer Science"
 ---
 
-- ***Bachelor's Degree***: September 2018 - June 2022
-- ***Master's Degree***: September 2022 - Present
+- **_Bachelor's Degree_**: September 2018 - June 2022
+- **_Master's Degree_**: September 2022 - Present

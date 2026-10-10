@@ -59,7 +59,7 @@ const StyledPost = styled.li`
   }
 
   .post__inner {
-    ${({ theme }) => theme.mixins.boxShadow};
+    ${({ theme }) => theme.mixins.surface};
     ${({ theme }) => theme.mixins.flexBetween};
     flex-direction: column;
     align-items: flex-start;

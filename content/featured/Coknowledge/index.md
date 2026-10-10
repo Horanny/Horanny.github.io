@@ -1,15 +1,15 @@
 ---
-date: '2'
-title: "CoKnowledge"
+date: '3'
+title: 'CoKnowledge'
 cover: './teaser.png'
-external: ''
+external: 'https://dl.acm.org/doi/full/10.1145/3706598.3713682'
 cta: ''
 tech:
   - Collective Knowledge
   - Online Video Platforms
 ---
 
-***CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos***
+**_CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos_**
 
 Yuanhao Zhang, Yumeng Wang, **Xiyuan Wang**, Changyang He, Chenliang Huang, Xiaojuan Ma
 

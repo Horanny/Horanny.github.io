@@ -1,8 +1,8 @@
 ---
-date: '3'
-title: "Prefer2SD"
+date: '4'
+title: 'Prefer2SD'
 cover: './prefer2sd.png'
-external: ''
+external: 'https://dl.acm.org/doi/full/10.1145/3708359.3712075'
 cta: ''
 tech:
   - Friend Recommendation
@@ -10,7 +10,7 @@ tech:
   - Visual Analytics
 ---
 
-***Prefer2SD: A Human-in-the-Loop Approach to Balancing Similarity and Diversity in In-Game Friend Recommendations***
+**_Prefer2SD: A Human-in-the-Loop Approach to Balancing Similarity and Diversity in In-Game Friend Recommendations_**
 
 **Xiyuan Wang**, Ziang Li, Sizhe Chen, Xingxing Xing, Wei Wan, Quan Li
 

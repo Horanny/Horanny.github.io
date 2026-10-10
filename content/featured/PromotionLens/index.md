@@ -1,5 +1,5 @@
 ---
-date: '7'
+date: '9'
 title: 'PromotionLens'
 cover: './promotionlens.jpeg'
 # github: 'https://github.com/chandrikadeb7/La-Derma'
@@ -10,7 +10,7 @@ tech:
   - Visualization
 ---
 
-***Inspecting Promotion Strategies of Online E-commerce via Visual Analytics***
+***PromotionLens: Inspecting Promotion Strategies of Online E-commerce via Visual Analytics***
 
 Chenyang Zhang, **Xiyuan Wang**, Chuyi Zhao, Yijing Ren, Tianyu Zhang, Zhenhui Peng, Xiaomeng Fan, Quan Li
 

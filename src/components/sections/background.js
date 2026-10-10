@@ -194,7 +194,7 @@ const StyledTabPanel = styled.div`
           left: -30px;
           width: 1px;
           height: calc(100% + 50px);
-          background: var(--slate);
+          background: var(--green);
         }
 
         &::after {
@@ -204,9 +204,9 @@ const StyledTabPanel = styled.div`
           left: -31.5px;
           height: 4px;
           width: 4px;
-          background: var(--slate);
+          background: var(--green);
           border-radius: 50%;
-          box-shadow: 0 0 0 2px var(--slate);
+          outline: 2px solid var(--green);
         }
 
         .timeline-item-title {

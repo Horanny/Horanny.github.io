@@ -1,10 +1,10 @@
 ---
-date: '2024-01-01'
-title: 'Visual Analytics System of South China Sea'
+date: '2026-05-01'
+title: 'OceanVive: An Immersive Visualization System for Communicating Complex Oceanic Phenomena'
 github: ''
-external: ''
+external: 'https://ieeexplore.ieee.org/abstract/document/11298844/'
 tech:
-  - Unity 3D
+  - IEEE VIS 26 Short Paper
   - Volume Rendering
   - Visual Analytics
 company: 'Project'

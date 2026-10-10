@@ -1,5 +1,5 @@
 ---
-date: '6'
+date: '8'
 title: 'FMLens'
 cover: './FMLens.png'
 external: 'https://ieeexplore.ieee.org/document/10509776'
@@ -8,7 +8,7 @@ tech:
 - Visual Analytics
 ---
 
-***Towards Better Scaffolding the Process of Fund Manager Selection in Fund Investments***
+***FMLens: Towards Better Scaffolding the Process of Fund Manager Selection in Fund Investments***
 
 Longfei Chen, Chen Cheng, He Wang, **Xiyuan Wang**, Yun Tian, Xuanwu Yue, Wong Kam-Kwai, Suting Hong, Quan Li
 

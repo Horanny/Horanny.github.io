@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'wangxy7@shanghaitech.edu.cn',
+  email: 'xiyuanwang@u.nus.edu',
 
   socialMedia: [
     {
@@ -14,10 +14,10 @@ module.exports = {
     //   name: 'Twitter',
     //   url: 'https://twitter.com/chandrikadeb7',
     // },
-    // {
-    //   name: 'Linkedin',
-    //   url: 'https://www.linkedin.com/in/chandrika-deb',
-    // },
+    {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/xiyuan-wang-2076bb297/',
+    },
     // {
     //   name: 'Codepen',
     //   url: 'https://codepen.io/chandrikadeb7',
